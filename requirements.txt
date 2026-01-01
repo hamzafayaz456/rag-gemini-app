@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+sentence-transformers
+PyPDF2
+torch
+transformers
