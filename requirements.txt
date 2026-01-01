@@ -3,16 +3,3 @@ google-generativeai
 sentence-transformers
 PyPDF2
 torch
-```
-
-By removing the version pins, it will automatically install compatible versions for Python 3.13.
-
----
-
-## **Alternative: Force Python 3.11 (Recommended)**
-
-If you want more control, create a `.python-version` file in your repository:
-
-**Create file `.python-version`:**
-```
-3.11
